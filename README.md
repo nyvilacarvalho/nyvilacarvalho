@@ -4,7 +4,9 @@
 
 `Estudante de Informática para internet no IEMA pleno Bacelar Portela`
 
-Sou Nyvila Carvalho, estou no último ano do ensino médio em escola técnica. Busco uma oportunidade para colocar em prática meus conhecimentos, aprimorar minhas habilidades e adquirir novas experiências na área de tecnologia e programação fronte-end. Tenho experiência em HTML, CSS, Experiência do Usuário, Interface do Usuário, Montagem e manutenção de computadores, git e github, além de conhecimento básico em JavaScript e Python. Estou sempre em busca de conhecer e aprender novas linguagens de programação, para evoluir meu conhecimento na área e também crescer profissionalmente.
+bom dia, boa tarde, boa noite.
+dev quase junior
+tec. informativa para internet
 <p align="left">
 
 
