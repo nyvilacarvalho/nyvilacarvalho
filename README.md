@@ -4,9 +4,9 @@
 
 `Estudante de Informática para internet no IEMA pleno Bacelar Portela`
 
-bom dia, boa tarde, boa noite.
-dev quase junior
-tec. informativa para internet
+bom dia, boa tarde, boa noite.</br>
+dev quase junior</br>
+tec. informativa para internet</br>
 <p align="left">
 
 
