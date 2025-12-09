@@ -2,11 +2,10 @@
 
 # Nyvila Carvalho
 
-`Estudante de Informática para internet no IEMA pleno Bacelar Portela`
+`tec. Informática para internet no IEMA pleno Bacelar Portela`
 
 bom dia, boa tarde, boa noite.</br>
 dev quase junior</br>
-tec. informativa para internet</br>
 <p align="left">
 
 
