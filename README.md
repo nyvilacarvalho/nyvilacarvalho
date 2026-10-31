@@ -2,7 +2,8 @@
 
 # Nyvila Carvalho
 
-`tec. Informática para internet`
+`tec. Informática para internet - iema`
+`1° periodo de ciencia da computacao - ufma`
 
 dev quase junior</br>
 <p align="left">
